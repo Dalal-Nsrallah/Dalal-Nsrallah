@@ -4,16 +4,15 @@
 
 <div align="center">
 
-[![Certified Translator](https://img.shields.io/badge/Certified_Translator-@LPTC__MOC-8B7355?style=flat-square)](https://x.com/LPTC_MOC)
-![Translation Technologist](https://img.shields.io/badge/Translation-Technologist-D4A574?style=flat-square)
-![LLM & RLHF Trainer](https://img.shields.io/badge/LLM_%26_RLHF-Trainer-0078D4?style=flat-square)
-![Cultural Consultant](https://img.shields.io/badge/Cultural-Consultant-6A5ACD?style=flat-square)
-![Awards Juror](https://img.shields.io/badge/Awards-Juror-C9A227?style=flat-square)
-![Translation PM](https://img.shields.io/badge/Translation-PM-2E8B57?style=flat-square)
-![Full-Stack Developer](https://img.shields.io/badge/Full--Stack-Developer-E34F26?style=flat-square)
+[![Certified Translator](https://img.shields.io/badge/Certified_Translator-@LPTC__MOC-8B7355?style=for-the-badge)](https://x.com/LPTC_MOC)
+![Translation Technologist](https://img.shields.io/badge/Translation-Technologist-D4A574?style=for-the-badge)
+![LLM & RLHF Trainer](https://img.shields.io/badge/LLM_%26_RLHF-Trainer-0078D4?style=for-the-badge)
+![Cultural Consultant](https://img.shields.io/badge/Cultural-Consultant-6A5ACD?style=for-the-badge)
+![Awards Juror](https://img.shields.io/badge/Awards-Juror-C9A227?style=for-the-badge)
+![Translation PM](https://img.shields.io/badge/Translation-PM-2E8B57?style=for-the-badge)
+![Full-Stack Developer](https://img.shields.io/badge/Full--Stack-Developer-E34F26?style=for-the-badge)
 
 </div>
-
 ---
 
 ## 🛠️ What I Build
