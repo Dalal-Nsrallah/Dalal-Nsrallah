@@ -1,6 +1,6 @@
 # 👋 Dalal Nasrallah | دلال نصرالله
 
---
+
 
 ## 🧰 Tech Stack
 
@@ -27,6 +27,13 @@
 
 **Certified Translator [@LPTC_MOC](https://x.com/LPTC_MOC) · Translation Technologist · LLM & RLHF Trainer · Cultural Consultant · Awards Juror · Translation PM · Full-Stack Developer**
 
+### 🏆 Achievements in Literary Translation
+- 🏆 **Shortlisted, Sheikh Zayed Book Award 2024** (Translation) — first Kuwaiti translator shortlisted
+- 📚 **Published Translation in Arabic:** Italo Calvino, *Perché leggere i classici?* → Arabic (Dar Al-Mada, 2021) and 20 other books.
+- 🌍 **Working Languages:** Arabic · English · Italian 
+- ✍️ **Currently Translating:** S. Matthew Liao's *Ethics of Artificial Intelligence* (OUP) into Arabic
+
+
 [![Website](https://img.shields.io/badge/Website-??.com-0078D4?style=for-the-badge&logo=world&logoColor=white)](https://trjim.com)
 [![Email](https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@trjim.com)
 
@@ -34,11 +41,6 @@
 
 -
 
-### 🏆 Achievements in Literary Translation
-- 🏆 **Shortlisted, Sheikh Zayed Book Award 2024** (Translation) — first Kuwaiti translator shortlisted
-- 📚 **Published Translation in Arabic:** Italo Calvino, *Perché leggere i classici?* → Arabic (Dar Al-Mada, 2021) and 20 other books.
-- 🌍 **Working Languages:** Arabic · English · Italian 
-- ✍️ **Currently Translating:** S. Matthew Liao's *Ethics of Artificial Intelligence* (OUP) into Arabic
 
 ---
 
