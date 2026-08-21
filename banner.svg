@@ -1,0 +1,97 @@
+<svg viewBox="0 0 960 440" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <style>
+    svg {
+      font-weight: 800;
+      font-family: Georgia, 'Palatino Linotype', serif;
+    }
+    .text-copy {
+      fill: none;
+      stroke-dasharray: 6% 29%;
+      stroke-width: 4px;
+      stroke-dashoffset: 0%;
+      animation: stroke-offset 5.5s infinite linear;
+    }
+    .en .text-copy { font-size: 84px; }
+    .ar .text-copy {
+      font-size: 66px;
+      stroke-width: 3.5px;
+      font-family: 'Amiri', 'Traditional Arabic', 'Geeza Pro', serif;
+    }
+    .text-copy:nth-child(1){ stroke: #FF2E4C; animation-delay: -1s; }
+    .text-copy:nth-child(2){ stroke: #9B5DE5; animation-delay: -2s; }
+    .text-copy:nth-child(3){ stroke: #FF6EC7; animation-delay: -3s; }
+    .text-copy:nth-child(4){ stroke: #FF8C2E; animation-delay: -4s; }
+    .text-copy:nth-child(5){ stroke: #E4008C; animation-delay: -5s; }
+    @keyframes stroke-offset{
+      100% { stroke-dashoffset: -35%; }
+    }
+    .quote-en {
+      font-family: Georgia, 'Palatino Linotype', serif;
+      font-style: italic;
+      font-weight: 400;
+      font-size: 22px;
+      fill: #FF6EC7;
+      opacity: 0;
+      animation: fadeIn 2s ease-out 0.8s forwards;
+    }
+    .quote-ar {
+      font-family: 'Amiri', 'Traditional Arabic', 'Geeza Pro', serif;
+      font-weight: 400;
+      font-size: 25px;
+      fill: #FF8C2E;
+      opacity: 0;
+      animation: fadeIn 2s ease-out 1.4s forwards;
+    }
+    .quote-it {
+      font-family: Georgia, 'Palatino Linotype', serif;
+      font-style: italic;
+      font-weight: 400;
+      font-size: 21px;
+      fill: #9B5DE5;
+      opacity: 0;
+      animation: fadeIn 2s ease-out 2s forwards;
+    }
+    .quote-author {
+      font-family: Georgia, serif;
+      font-weight: 400;
+      font-size: 15px;
+      letter-spacing: 2.5px;
+      fill: #FF2E4C;
+      opacity: 0;
+      animation: fadeIn 2s ease-out 2.6s forwards;
+    }
+    @keyframes fadeIn {
+      to { opacity: 1; }
+    }
+  </style>
+
+  <rect width="100%" height="100%" fill="#0D1117" rx="14"/>
+
+  <symbol id="s-en">
+    <text text-anchor="middle" x="50%" y="24%">Dalal NsrAllah</text>
+  </symbol>
+  <symbol id="s-ar">
+    <text text-anchor="middle" x="50%" y="47%" direction="rtl">دلال نصرالله</text>
+  </symbol>
+
+  <g class="en">
+    <use href="#s-en" class="text-copy"></use>
+    <use href="#s-en" class="text-copy"></use>
+    <use href="#s-en" class="text-copy"></use>
+    <use href="#s-en" class="text-copy"></use>
+    <use href="#s-en" class="text-copy"></use>
+  </g>
+
+  <g class="ar">
+    <use href="#s-ar" class="text-copy"></use>
+    <use href="#s-ar" class="text-copy"></use>
+    <use href="#s-ar" class="text-copy"></use>
+    <use href="#s-ar" class="text-copy"></use>
+    <use href="#s-ar" class="text-copy"></use>
+  </g>
+
+  <text x="50%" y="288" text-anchor="middle" class="quote-en">&#8220;Visible where visibility is dignity, invisible where invisibility is life.&#8221;</text>
+  <text x="50%" y="330" text-anchor="middle" direction="rtl" class="quote-ar">ظاهرةٌ حيث الظهورُ كرامة، خفيّةٌ حيث الخفاءُ حياة.</text>
+  <text x="50%" y="370" text-anchor="middle" class="quote-it">&#171;Visibile dove la visibilit&#224; &#232; dignit&#224;, invisibile dove l&#8217;invisibilit&#224; &#232; vita.&#187;</text>
+  <text x="50%" y="408" text-anchor="middle" class="quote-author">&#8212; DALAL NSRALLAH</text>
+</svg>
