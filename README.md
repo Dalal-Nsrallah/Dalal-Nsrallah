@@ -1,15 +1,6 @@
 # 👋 Dalal Nasrallah | دلال نصرالله
 
-<div align="center">
-
-**Certified Translator [@LPTC_MOC](https://x.com/LPTC_MOC) · Translation Technologist · LLM & RLHF Trainer · Cultural Consultant · Awards Juror · Translation PM · Full-Stack Developer**
-
-[![Website](https://img.shields.io/badge/Website-??.com-0078D4?style=for-the-badge&logo=world&logoColor=white)](https://trjim.com)
-[![Email](https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@trjim.com)
-
-</div>
-
----
+--
 
 ## 🧰 Tech Stack
 
@@ -32,7 +23,16 @@
 
 ## 🎯 About Me
 
-Founder of **[??](https://??.com)** (?? للتقنية) —  translation technology company building tools where linguistic rigor meets software engineering.
+<div align="center">
+
+**Certified Translator [@LPTC_MOC](https://x.com/LPTC_MOC) · Translation Technologist · LLM & RLHF Trainer · Cultural Consultant · Awards Juror · Translation PM · Full-Stack Developer**
+
+[![Website](https://img.shields.io/badge/Website-??.com-0078D4?style=for-the-badge&logo=world&logoColor=white)](https://trjim.com)
+[![Email](https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@trjim.com)
+
+</div>
+
+-
 
 ### 🏆 Achievements in Literary Translation
 - 🏆 **Shortlisted, Sheikh Zayed Book Award 2024** (Translation) — first Kuwaiti translator shortlisted
