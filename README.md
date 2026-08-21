@@ -16,11 +16,10 @@
 
 Founder of **[Tarjimtech](https://trjimtech.com)** (ترجمتك للتقنية) — a Kuwait-based translation technology company building tools where linguistic rigor meets software engineering.
 
-### 🏆 Achievements
+### 🏆 Achievements in Literary Translation
 - 🏆 **Shortlisted, Sheikh Zayed Book Award 2024** (Translation) — first Kuwaiti translator shortlisted
-- 📚 **Published Literary Translator:** Italo Calvino, *Perché leggere i classici?* → Arabic (Dar Al-Mada, 2021)
-- 🔬 **PhD Researcher:** Building **GHIRBAL (غَرْبال)** — the first framework integrating QA, QC, and AI in Arabic translation quality assessment
-- 🌍 **Working Languages:** Arabic · English · Italian (C1)
+- 📚 **Published Literary Translator:** Italo Calvino, *Perché leggere i classici?* → Arabic (Dar Al-Mada, 2021) and 20 other books.
+- 🌍 **Working Languages:** Arabic · English · Italian 
 - ✍️ **Currently Translating:** S. Matthew Liao's *Ethics of Artificial Intelligence* (OUP) into Arabic
 
 ---
@@ -34,11 +33,11 @@ I build translation technology for Arabic — a language most CAT tools, QA chec
 | **TPMS** | SaaS translation project management platform | `React` `Vite` `Supabase` `AWS` |
 | **Meezan (ميزان)** | Legal translation desktop app with trilingual (AR/EN/IT) legal TMX & functional-equivalence classification | `PyQt6` `Python` |
 | **Taqleeb (تقليب)** | Combinatorial Arabic haiku machine — one million poems per deck, in the registers of ten Arab poets | `JavaScript` `AWS S3` `CloudFront` |
-| **ArabicCAT** | Professional CAT tool with 22+ Arabic-specific QA checks | `HTML/CSS/JS` |
-| **Tarjimna** | Secure translation system for conflict-zone translators (AES-256-GCM encryption) | `Tauri` `Rust` |
-| **Arabic L10N Checker** | 44 localization checks across 10 categories, built for Arabic | `Python` |
+| **ArabicCAT** | Professional CAT tool  | `HTML/CSS/JS` |
+| **Tarjimna** | Secure translation system  | `Tauri` `Rust` |
+| **Arabic L10N Checker** | built for Arabic | `Python` |
 
-📍 **View all projects:** [PROJECTS.md](./PROJECTS.md) | [GitHub Repositories](https://github.com/Dalal-Nsrallah?tab=repositories)
+📍 **View some projects:** [PROJECTS.md](./PROJECTS.md) | [GitHub Repositories](https://github.com/Dalal-Nsrallah?tab=repositories)
 
 ---
 
@@ -48,7 +47,6 @@ I build translation technology for Arabic — a language most CAT tools, QA chec
 A seven-criterion translation quality model with:
 - ✅ Adaptive footnote policies
 - 🛡️ Bias screening
-- 🤖 AI-assisted evaluation
 - 📊 Non-translational failure detection in LLM-based translation evaluation
 
 **Dissertation:** *غَرْبال: دمج ضمان الجودة وضبطها والذكاء الاصطناعي في تقييم الترجمة إلى العربية*
@@ -62,17 +60,9 @@ A seven-criterion translation quality model with:
 
 ---
 
-## 📖 Translation Portfolio
-
-### Literary & Philological Work
-- **Vasari's *Le Vite* (Giuntina 1568)** — Philological Italian → Arabic with full critical apparatus
-- **William Zinsser's *On Writing Well*** → Arabic (Tarjimtech)
-- **Carlo Guarmani's *El Kamsa* (1866)** → Arabic with full verification apparatus
-- **Italo Calvino's *Perché leggere i classici?*** → Arabic (Dar Al-Mada, 2021)
-
 ### Leadership & Community
-- 👥 **Director, Kalimat Literary Agency** — reverse translation of Saudi literature
-- 👥 **Co-founder, Beit Al-Mutarjim** — Kuwait Writers Association
+- 👥 ** PM, Kalimat Literary Agency (KSA)** — reverse translation of Saudi literature
+  
 
 ---
 
@@ -130,9 +120,9 @@ I'm actively seeking partnerships on:
 
 ## 📫 Get in Touch
 
-- 🌐 **Website:** [trjimtech.com](https://trjimtech.com)
-- 📧 **Email:** [hello@trjimtech.com](mailto:hello@trjimtech.com)
-- 💼 **LinkedIn:** [Dalal Nasrallah](https://linkedin.com/in/dalal-nsrallah)
+- 🌐 **Website:** 
+- 📧 **Email:** 
+- 💼 **LinkedIn:** 
 - 🐦 **Twitter/X:** [@DalalNsrallah](https://twitter.com/DalalNsrallah)
 - 💬 **Discord:** Available for technical discussions
 
@@ -144,6 +134,6 @@ I'm actively seeking partnerships on:
 
 ### 💭 *"Visible where visibility is dignity, invisible where invisibility is life."*
 
-**Made with ❤️ in Kuwait**
+
 
 </div>
