@@ -49,7 +49,7 @@ A seven-criterion translation quality model with:
 ---
 
 ### Leadership & Community
-- 👥 ** PM, Kalimat Literary Agency (KSA)** — reverse translation of Saudi literature
+- 👥 **PM, Kalimat Literary Agency (KSA)** — reverse translation of Saudi literature
   
 
 ---
@@ -69,15 +69,11 @@ I'm actively seeking partnerships on:
 
 
 ---
-
 <div align="center">
 
 ### 💭 *"Visible where visibility is dignity, invisible where invisibility is life."*
 
-
-
 </div>
-
 
 ## 🧰 Tech Stack
 
