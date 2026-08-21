@@ -4,9 +4,8 @@
 
 **Translator · Translation Technologist · Applied Linguistics PhD Researcher**
 
-[![Website](https://img.shields.io/badge/Website-trjimtech.com-0078D4?style=for-the-badge&logo=world&logoColor=white)](https://trjimtech.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dalal_Nsrallah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dalal-nsrallah)
-[![Email](https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@trjimtech.com)
+[![Website](https://img.shields.io/badge/Website-trjimtech.com-0078D4?style=for-the-badge&logo=world&logoColor=white)](https://trjim.com)
+[![Email](https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@trjim.com)
 
 </div>
 
@@ -14,7 +13,7 @@
 
 ## 🎯 About Me
 
-Founder of **[Tarjimtech](https://trjimtech.com)** (ترجمتك للتقنية) — a Kuwait-based translation technology company building tools where linguistic rigor meets software engineering.
+Founder of **[??](https://??.com)** (?? للتقنية) —  translation technology company building tools where linguistic rigor meets software engineering.
 
 ### 🏆 Achievements in Literary Translation
 - 🏆 **Shortlisted, Sheikh Zayed Book Award 2024** (Translation) — first Kuwaiti translator shortlisted
