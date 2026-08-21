@@ -1,26 +1,6 @@
 # 👋 Dalal Nasrallah | دلال نصرالله
 
 
-
-## 🧰 Tech Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3.10+-3776ab?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-5-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-Latest-CE422B?style=flat-square&logo=rust&logoColor=white)
-![Tauri](https://img.shields.io/badge/Tauri-Desktop-FFC131?style=flat-square&logo=tauri&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-PostgreSQL-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-Cloud-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![PyQt](https://img.shields.io/badge/PyQt6-Desktop-41CD52?style=flat-square&logo=qt&logoColor=white)
-![Azure AI](https://img.shields.io/badge/Azure-AI%20900-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-
-</div>
-
----
-
 ## 🎯 About Me
 
 <div align="center">
@@ -54,6 +34,7 @@ I build translation technology for Arabic — a language most CAT tools, QA chec
 
 ---
 
+
 ## 🔬 Research & Innovation
 
 ### GHIRBAL Framework
@@ -78,27 +59,6 @@ A seven-criterion translation quality model with:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Dalal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dalal-Nsrallah&theme=dark&show_icons=true&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dalal-Nsrallah&theme=dark&layout=compact&hide_border=true)
-
-</div>
-
----
-
-## 📚 Documentation
-
-- 🚀 [**PROJECTS.md**](./PROJECTS.md) — Detailed project showcase
-- 🔬 [**RESEARCH.md**](./RESEARCH.md) — Research & GHIRBAL Framework
-- 🤝 [**CONTRIBUTIONS.md**](./CONTRIBUTIONS.md) — How to contribute
-- 📫 [**CONTACT.md**](./CONTACT.md) — Get in touch
-
----
-
 ## 🤝 Open to Collaboration
 
 I'm actively seeking partnerships on:
@@ -107,17 +67,6 @@ I'm actively seeking partnerships on:
 - 🛠️ **CAT Tooling & Localization** — professional translation tools for Arabic
 - 📚 **Literary Translation** — especially classical Arabic texts and cross-cultural works
 
----
-
-## 📫 Get in Touch
-
-- 🌐 **Website:** 
-- 📧 **Email:** 
-- 💼 **LinkedIn:** 
-- 🐦 **Twitter/X:** [@DalalNsrallah](https://twitter.com/DalalNsrallah)
-- 💬 **Discord:** Available for technical discussions
-
-📖 **More details:** [CONTACT.md](./CONTACT.md)
 
 ---
 
@@ -128,3 +77,24 @@ I'm actively seeking partnerships on:
 
 
 </div>
+
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3.10+-3776ab?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-5-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-Latest-CE422B?style=flat-square&logo=rust&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-Desktop-FFC131?style=flat-square&logo=tauri&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-PostgreSQL-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Cloud-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![PyQt](https://img.shields.io/badge/PyQt6-Desktop-41CD52?style=flat-square&logo=qt&logoColor=white)
+![Azure AI](https://img.shields.io/badge/Azure-AI%20900-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+
+</div>
+
+---
+
