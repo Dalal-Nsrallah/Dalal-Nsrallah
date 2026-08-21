@@ -19,18 +19,16 @@
 
 ## 🛠️ What I Build
 
-I build translation technology for Arabic — a language most CAT tools, QA checkers, and TM engines treat as an afterthought.
+I build translation technology for Arabic.
 
 | 🚀 Project | 📖 Description | 💻 Stack |
 |---|---|---|
 | **TPMS** | SaaS translation project management platform | `React` `Vite` `Supabase` `AWS` |
-| **Meezan (ميزان)** | Legal translation  | `PyQt6` `Python` |
-| **Taqleeb (تقليب)** | Combinatorial  | `JavaScript` `AWS S3` `CloudFront` |
+| **Meezan (ميزان)** | Legal Translation  | `PyQt6` `Python` |
+| **Taqleeb (تقليب)** | -  | `JavaScript` `AWS S3` `CloudFront` |
 | **ArabicCAT** | Professional CAT tool  | `HTML/CSS/JS` |
 | **Tarjimna** | Secure translation system  | `Tauri` `Rust` |
 | **Arabic L10N Checker** | built for Arabic | `Python` |
-
-📍 **View some projects:** [PROJECTS.md](./PROJECTS.md) | [GitHub Repositories](https://github.com/Dalal-Nsrallah?tab=repositories)
 
 ---
 
@@ -38,7 +36,7 @@ I build translation technology for Arabic — a language most CAT tools, QA chec
 ## 🔬 Research & Innovation
 
 ### GHIRBAL Framework
-A seven-criterion translation quality model with:
+A seven-criterion translation quality model.
 
 
 ### Research Areas
@@ -63,7 +61,7 @@ A seven-criterion translation quality model with:
 
 I'm actively seeking partnerships on:
 - 🤖 **Arabic NLP & AI** — LLM evaluation, bias detection, quality assessment
-- 📐 **Translation Quality Frameworks** — QA/QC automation, evaluation metrics
+- 📐 **Translation Quality Frameworks** — QA/QC , evaluation metrics
 - 🛠️ **CAT Tooling & Localization** — professional translation tools for Arabic
 - 📚 **Literary Translation** — especially classical Arabic texts and cross-cultural works
 
