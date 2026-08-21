@@ -1,4 +1,4 @@
-<svg viewBox="0 0 960 300" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg viewBox="0 0 960 340" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <style>
     svg {
       font-weight: 800;
@@ -25,15 +25,37 @@
     @keyframes stroke-offset{
       100% { stroke-dashoffset: -35%; }
     }
+    .quote {
+      font-family: Georgia, 'Palatino Linotype', serif;
+      font-style: italic;
+      font-weight: 400;
+      font-size: 24px;
+      fill: #FF6EC7;
+      opacity: 0;
+      animation: fadeIn 2s ease-out 0.8s forwards;
+    }
+    .quote-author {
+      font-family: Georgia, serif;
+      font-style: normal;
+      font-weight: 400;
+      font-size: 16px;
+      letter-spacing: 2px;
+      fill: #9B5DE5;
+      opacity: 0;
+      animation: fadeIn 2s ease-out 1.6s forwards;
+    }
+    @keyframes fadeIn {
+      to { opacity: 1; }
+    }
   </style>
 
   <rect width="100%" height="100%" fill="#0D1117" rx="14"/>
 
   <symbol id="s-en">
-    <text text-anchor="middle" x="50%" y="45%">Dalal NsrAllah</text>
+    <text text-anchor="middle" x="50%" y="30%">Dalal NsrAllah</text>
   </symbol>
   <symbol id="s-ar">
-    <text text-anchor="middle" x="50%" y="88%" direction="rtl">دلال نصرالله</text>
+    <text text-anchor="middle" x="50%" y="62%" direction="rtl">دلال نصرالله</text>
   </symbol>
 
   <g class="en">
@@ -51,4 +73,7 @@
     <use href="#s-ar" class="text-copy"></use>
     <use href="#s-ar" class="text-copy"></use>
   </g>
+
+  <text x="50%" y="282" text-anchor="middle" class="quote">&#8220;Visible where visibility is dignity, invisible where invisibility is life.&#8221;</text>
+  <text x="50%" y="316" text-anchor="middle" class="quote-author">&#8212; DALAL NSRALLAH</text>
 </svg>
