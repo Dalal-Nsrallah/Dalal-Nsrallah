@@ -25,22 +25,15 @@
 
 <div align="center">
 
-**Certified Translator [@LPTC_MOC](https://x.com/LPTC_MOC) · Translation Technologist · LLM & RLHF Trainer · Cultural Consultant · Awards Juror · Translation PM · Full-Stack Developer**
-
-### 🏆 Achievements in Literary Translation
-- 🏆 **Shortlisted, Sheikh Zayed Book Award 2024** (Translation) — first Kuwaiti translator shortlisted
-- 📚 **Published Translation in Arabic:** Italo Calvino, *Perché leggere i classici?* → Arabic (Dar Al-Mada, 2021) and 20 other books.
-- 🌍 **Working Languages:** Arabic · English · Italian 
-- ✍️ **Currently Translating:** S. Matthew Liao's *Ethics of Artificial Intelligence* (OUP) into Arabic
-
-
-[![Website](https://img.shields.io/badge/Website-??.com-0078D4?style=for-the-badge&logo=world&logoColor=white)](https://trjim.com)
-[![Email](https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@trjim.com)
+[![Certified Translator](https://img.shields.io/badge/Certified_Translator-@LPTC__MOC-8B7355?style=flat-square)](https://x.com/LPTC_MOC)
+![Translation Technologist](https://img.shields.io/badge/Translation-Technologist-D4A574?style=flat-square)
+![LLM & RLHF Trainer](https://img.shields.io/badge/LLM_%26_RLHF-Trainer-0078D4?style=flat-square)
+![Cultural Consultant](https://img.shields.io/badge/Cultural-Consultant-6A5ACD?style=flat-square)
+![Awards Juror](https://img.shields.io/badge/Awards-Juror-C9A227?style=flat-square)
+![Translation PM](https://img.shields.io/badge/Translation-PM-2E8B57?style=flat-square)
+![Full-Stack Developer](https://img.shields.io/badge/Full--Stack-Developer-E34F26?style=flat-square)
 
 </div>
-
-
-
 
 ---
 
