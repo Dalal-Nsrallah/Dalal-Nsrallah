@@ -1,5 +1,4 @@
-# 👋 Dalal Nasrallah | دلال نصرالله
-
+<img src="./Dalal.svg"></img>
 ## 🎯 About Me
 
 <div align="center">
