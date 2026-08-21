@@ -81,15 +81,15 @@ I'm actively seeking partnerships on:
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3.10+-3776ab?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-5-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-Latest-CE422B?style=flat-square&logo=rust&logoColor=white)
-![Tauri](https://img.shields.io/badge/Tauri-Desktop-FFC131?style=flat-square&logo=tauri&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-PostgreSQL-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-Cloud-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![PyQt](https://img.shields.io/badge/PyQt6-Desktop-41CD52?style=flat-square&logo=qt&logoColor=white)
-![Azure AI](https://img.shields.io/badge/Azure-AI%20900-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.10+-FF2E4C?style=flat-square&logo=python&logoColor=white&labelColor=1a1a2e)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-9B5DE5?style=flat-square&logo=javascript&logoColor=white&labelColor=1a1a2e)
+![React](https://img.shields.io/badge/React-19-FF6EC7?style=flat-square&logo=react&logoColor=white&labelColor=1a1a2e)
+![Vite](https://img.shields.io/badge/Vite-5-FF8C2E?style=flat-square&logo=vite&logoColor=white&labelColor=1a1a2e)
+![Rust](https://img.shields.io/badge/Rust-Latest-E4008C?style=flat-square&logo=rust&logoColor=white&labelColor=1a1a2e)
+![Tauri](https://img.shields.io/badge/Tauri-Desktop-FF2E4C?style=flat-square&logo=tauri&logoColor=white&labelColor=1a1a2e)
+![Supabase](https://img.shields.io/badge/Supabase-PostgreSQL-9B5DE5?style=flat-square&logo=supabase&logoColor=white&labelColor=1a1a2e)
+![AWS](https://img.shields.io/badge/AWS-Cloud-FF6EC7?style=flat-square&logo=amazonwebservices&logoColor=white&labelColor=1a1a2e)
+![PyQt6](https://img.shields.io/badge/PyQt6-Desktop-FF8C2E?style=flat-square&logo=qt&logoColor=white&labelColor=1a1a2e)
+![Azure](https://img.shields.io/badge/Azure-AI_900-E4008C?style=flat-square&logo=microsoftazure&logoColor=white&labelColor=1a1a2e)
 
 </div>
