@@ -67,7 +67,7 @@ I'm actively seeking partnerships on:
 
 <div align="center">
 
-### 💭 *"Visible where visibility is dignity, invisible where invisibility is life."*
+### 💭 *"Visible where visibility is dignity, invisible where invisibility is life." - Dalal NsrAllah*
 
 </div>
 
