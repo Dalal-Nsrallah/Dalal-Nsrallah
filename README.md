@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Dalal-Nsrallah/Dalal-Nsrallah/main/Dalal.svg?v=3"></img>
+<img src="https://raw.githubusercontent.com/Dalal-Nsrallah/Dalal-Nsrallah/assets/banner.svg"></img>
 
 ## 🎯 About Me
 
