@@ -19,8 +19,6 @@
 
 ## 🛠️ What I Build
 
-I build translation technology for Arabic.
-
 | 🚀 Project | 📖 Description | 💻 Stack |
 |---|---|---|
 | **TPMS** | SaaS platform | `React` `Vite` `Supabase` `AWS` |
