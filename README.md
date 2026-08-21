@@ -1,16 +1,14 @@
 <img src="https://raw.githubusercontent.com/Dalal-Nsrallah/Dalal-Nsrallah/assets/banner.svg"></img>
 
-## 🎯 About Me
-
 <div align="center">
 
-[![Certified Translator](https://img.shields.io/badge/Certified_Translator-@LPTC__MOC-8B7355?style=for-the-badge)](https://x.com/LPTC_MOC)
-![Translation Technologist](https://img.shields.io/badge/Translation-Technologist-D4A574?style=for-the-badge)
-![LLM & RLHF Trainer](https://img.shields.io/badge/LLM_%26_RLHF-Trainer-0078D4?style=for-the-badge)
-![Cultural Consultant](https://img.shields.io/badge/Cultural-Consultant-6A5ACD?style=for-the-badge)
-![Awards Juror](https://img.shields.io/badge/Awards-Juror-C9A227?style=for-the-badge)
-![Translation PM](https://img.shields.io/badge/Translation-PM-2E8B57?style=for-the-badge)
-![Full-Stack Developer](https://img.shields.io/badge/Full--Stack-Developer-E34F26?style=for-the-badge)
+[![Certified Translator](https://img.shields.io/badge/Certified_Translator-@LPTC__MOC-FF2E4C?style=for-the-badge&labelColor=1a1a2e)](https://x.com/LPTC_MOC)
+![Translation Technologist](https://img.shields.io/badge/Translation-Technologist-9B5DE5?style=for-the-badge&labelColor=1a1a2e)
+![LLM & RLHF Trainer](https://img.shields.io/badge/LLM_%26_RLHF-Trainer-FF6EC7?style=for-the-badge&labelColor=1a1a2e)
+![Cultural Consultant](https://img.shields.io/badge/Cultural-Consultant-FF8C2E?style=for-the-badge&labelColor=1a1a2e)
+![Awards Juror](https://img.shields.io/badge/Awards-Juror-E4008C?style=for-the-badge&labelColor=1a1a2e)
+![Translation PM](https://img.shields.io/badge/Translation-PM-FF2E4C?style=for-the-badge&labelColor=1a1a2e)
+![Full-Stack Developer](https://img.shields.io/badge/Full--Stack-Developer-9B5DE5?style=for-the-badge&labelColor=1a1a2e)
 
 </div>
 
