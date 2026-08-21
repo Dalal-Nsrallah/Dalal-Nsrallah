@@ -11,6 +11,25 @@
 
 ---
 
+## 🧰 Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3.10+-3776ab?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-5-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-Latest-CE422B?style=flat-square&logo=rust&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-Desktop-FFC131?style=flat-square&logo=tauri&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-PostgreSQL-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Cloud-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![PyQt](https://img.shields.io/badge/PyQt6-Desktop-41CD52?style=flat-square&logo=qt&logoColor=white)
+![Azure AI](https://img.shields.io/badge/Azure-AI%20900-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+
+</div>
+
+---
+
 ## 🎯 About Me
 
 Founder of **[??](https://??.com)** (?? للتقنية) —  translation technology company building tools where linguistic rigor meets software engineering.
@@ -44,12 +63,7 @@ I build translation technology for Arabic — a language most CAT tools, QA chec
 
 ### GHIRBAL Framework
 A seven-criterion translation quality model with:
-- ✅ Adaptive footnote policies
-- 🛡️ Bias screening
-- 📊 Non-translational failure detection in LLM-based translation evaluation
 
-
-📖 **Read more:** [RESEARCH.md](./RESEARCH.md)
 
 ### Research Areas
 - Arabic-aware fuzzy matching for translation memory
@@ -64,22 +78,6 @@ A seven-criterion translation quality model with:
 
 ---
 
-## 🧰 Tech Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3.10+-3776ab?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-5-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-Latest-CE422B?style=flat-square&logo=rust&logoColor=white)
-![Tauri](https://img.shields.io/badge/Tauri-Desktop-FFC131?style=flat-square&logo=tauri&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-PostgreSQL-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-Cloud-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![PyQt](https://img.shields.io/badge/PyQt6-Desktop-41CD52?style=flat-square&logo=qt&logoColor=white)
-![Azure AI](https://img.shields.io/badge/Azure-AI%20900-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-
-</div>
 
 **Tools & Formats:** TMX · XLIFF · CAT Tools · Translation Memory · NLP · Machine Learning
 
