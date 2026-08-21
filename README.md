@@ -25,7 +25,7 @@
 | **Taqleeb (تقليب)** | Combinatorial machine | `JavaScript` `AWS S3` `CloudFront` |
 | **ArabicCAT** | Professional CAT tool | `HTML/CSS/JS` |
 | **Tarjimna (ترجمنا)** | Secure translation system | `Tauri` `Rust` |
-| **Bashiq (باشق)** | Image ownership fingerprinting | `Python` `PyWavelets` |
+| **Bashiq (باشق)** | Stealth project 🤫 | `Python` |
 | **Arabic L10N Checker** | built for Arabic | `Python` |
 
 ---
