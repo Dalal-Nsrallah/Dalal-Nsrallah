@@ -40,7 +40,7 @@ A seven-criterion translation quality model.
 ### Research Areas
 - Arabic-aware fuzzy matching for translation memory
 - QA/QC integration in professional translation workflows
-- Machine learning applications in translation quality assessment
+- Machine learning applications in translation 
 
 ---
 
