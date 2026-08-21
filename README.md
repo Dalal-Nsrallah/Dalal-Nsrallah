@@ -36,7 +36,7 @@ Founder of **[??](https://??.com)** (?? للتقنية) —  translation technol
 
 ### 🏆 Achievements in Literary Translation
 - 🏆 **Shortlisted, Sheikh Zayed Book Award 2024** (Translation) — first Kuwaiti translator shortlisted
-- 📚 **Published Literary Translator:** Italo Calvino, *Perché leggere i classici?* → Arabic (Dar Al-Mada, 2021) and 20 other books.
+- 📚 **Published Translation in Arabic:** Italo Calvino, *Perché leggere i classici?* → Arabic (Dar Al-Mada, 2021) and 20 other books.
 - 🌍 **Working Languages:** Arabic · English · Italian 
 - ✍️ **Currently Translating:** S. Matthew Liao's *Ethics of Artificial Intelligence* (OUP) into Arabic
 
