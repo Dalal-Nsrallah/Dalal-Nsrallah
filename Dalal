@@ -1,0 +1,54 @@
+<svg viewBox="0 0 960 300" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <style>
+    svg {
+      font-weight: 800;
+      font-family: Georgia, 'Palatino Linotype', serif;
+    }
+    .text-copy {
+      fill: none;
+      stroke-dasharray: 6% 29%;
+      stroke-width: 4.5px;
+      stroke-dashoffset: 0%;
+      animation: stroke-offset 5.5s infinite linear;
+    }
+    .en .text-copy { font-size: 96px; }
+    .ar .text-copy {
+      font-size: 60px;
+      stroke-width: 3px;
+      font-family: 'Amiri', 'Traditional Arabic', 'Geeza Pro', serif;
+    }
+    .text-copy:nth-child(1){ stroke: #FF2E4C; animation-delay: -1s; }
+    .text-copy:nth-child(2){ stroke: #9B5DE5; animation-delay: -2s; }
+    .text-copy:nth-child(3){ stroke: #FF6EC7; animation-delay: -3s; }
+    .text-copy:nth-child(4){ stroke: #FF8C2E; animation-delay: -4s; }
+    .text-copy:nth-child(5){ stroke: #E4008C; animation-delay: -5s; }
+    @keyframes stroke-offset{
+      100% { stroke-dashoffset: -35%; }
+    }
+  </style>
+
+  <rect width="100%" height="100%" fill="#0D1117" rx="14"/>
+
+  <symbol id="s-en">
+    <text text-anchor="middle" x="50%" y="45%">Dalal NsrAllah</text>
+  </symbol>
+  <symbol id="s-ar">
+    <text text-anchor="middle" x="50%" y="88%" direction="rtl">دلال نصرالله</text>
+  </symbol>
+
+  <g class="en">
+    <use href="#s-en" class="text-copy"></use>
+    <use href="#s-en" class="text-copy"></use>
+    <use href="#s-en" class="text-copy"></use>
+    <use href="#s-en" class="text-copy"></use>
+    <use href="#s-en" class="text-copy"></use>
+  </g>
+
+  <g class="ar">
+    <use href="#s-ar" class="text-copy"></use>
+    <use href="#s-ar" class="text-copy"></use>
+    <use href="#s-ar" class="text-copy"></use>
+    <use href="#s-ar" class="text-copy"></use>
+    <use href="#s-ar" class="text-copy"></use>
+  </g>
+</svg>
