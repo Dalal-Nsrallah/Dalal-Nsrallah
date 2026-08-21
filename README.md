@@ -23,7 +23,7 @@ I build translation technology for Arabic.
 
 | 🚀 Project | 📖 Description | 💻 Stack |
 |---|---|---|
-| **TPMS** | SaaS translation project management platform | `React` `Vite` `Supabase` `AWS` |
+| **TPMS** | SaaS platform | `React` `Vite` `Supabase` `AWS` |
 | **Meezan (ميزان)** | Legal Translation  | `PyQt6` `Python` |
 | **Taqleeb (تقليب)** | -  | `JavaScript` `AWS S3` `CloudFront` |
 | **ArabicCAT** | Professional CAT tool  | `HTML/CSS/JS` |
