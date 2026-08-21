@@ -1,4 +1,4 @@
-<img src="./Dalal.svg"></img>
+<img src="./Dalal.svg?v=2"></img>
 
 ## 🎯 About Me
 
