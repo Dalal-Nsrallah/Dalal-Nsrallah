@@ -24,7 +24,7 @@
 | **Meezan (ميزان)** | Legal Translation | `PyQt6` `Python` |
 | **Taqleeb (تقليب)** | Combinatorial machine | `JavaScript` `AWS S3` `CloudFront` |
 | **ArabicCAT** | Professional CAT tool | `HTML/CSS/JS` |
-| **Tarjimna (ترجمنا)** | Secure translation system | `Tauri` `Rust` |
+| **Tarjimna (ترجمنا)** | Stealth project 🤫 | `Tauri` `Rust` |
 | **Bashiq (باشق)** | Stealth project 🤫 | `Python` |
 | **Arabic L10N Checker** | built for Arabic | `Python` |
 
