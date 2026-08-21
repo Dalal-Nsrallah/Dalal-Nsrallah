@@ -23,9 +23,9 @@
 |---|---|---|
 | **TPMS** | SaaS platform | `React` `Vite` `Supabase` `AWS` |
 | **Meezan (ميزان)** | Legal Translation  | `PyQt6` `Python` |
-| **Taqleeb (تقليب)** | -  | `JavaScript` `AWS S3` `CloudFront` |
+| **Taqleeb (تقليب)** | Combinatorial machine  | `JavaScript` `AWS S3` `CloudFront` |
 | **ArabicCAT** | Professional CAT tool  | `HTML/CSS/JS` |
-| **Tarjimna** | Secure translation system  | `Tauri` `Rust` |
+| **??** | Secure translation system  | `Tauri` `Rust` |
 | **Arabic L10N Checker** | built for Arabic | `Python` |
 
 ---
@@ -60,8 +60,8 @@ A seven-criterion translation quality model.
 I'm actively seeking partnerships on:
 - 🤖 **Arabic NLP & AI** — LLM evaluation, bias detection, quality assessment
 - 📐 **Translation Quality Frameworks** — QA/QC , evaluation metrics
-- 🛠️ **CAT Tooling & Localization** — professional translation tools for Arabic
-- 📚 **Literary Translation** — especially classical Arabic texts and cross-cultural works
+- 🛠️ **CAT Tooling & Localization** 
+- 📚 **Literary Translation** — especially cross-cultural works
 
 
 ---
