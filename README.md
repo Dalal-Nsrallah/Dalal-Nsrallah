@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**Certified Translator [@LPTC_MOC](https://x.com/LPTC_MOC) · Translation Technologist · LLM & RLHF Trainer · Cultural Consultant · Awards Juror · Translation PM**
+**Certified Translator [@LPTC_MOC](https://x.com/LPTC_MOC) · Translation Technologist · LLM & RLHF Trainer · Cultural Consultant · Awards Juror · Translation PM · Full-Stack Developer**
 
 [![Website](https://img.shields.io/badge/Website-??.com-0078D4?style=for-the-badge&logo=world&logoColor=white)](https://trjim.com)
 [![Email](https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@trjim.com)
