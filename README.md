@@ -2,10 +2,10 @@
 
 <div align="center">
 
-**Translator · Translation Technologist · 
+**Translator · Translation Technologist · Applied Linguistics PhD Researcher**
 
 [![Website](https://img.shields.io/badge/Website-trjimtech.com-0078D4?style=for-the-badge&logo=world&logoColor=white)](https://trjimtech.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dalal_Nsrallah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dalal-nsrallah)
 [![Email](https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@trjimtech.com)
 
 </div>
@@ -38,7 +38,7 @@ I build translation technology for Arabic — a language most CAT tools, QA chec
 | **Tarjimna** | Secure translation system for conflict-zone translators (AES-256-GCM encryption) | `Tauri` `Rust` |
 | **Arabic L10N Checker** | 44 localization checks across 10 categories, built for Arabic | `Python` |
 
-📍 **View all projects:** [GitHub Repositories](https://github.com/Dalal-Nsrallah?tab=repositories)
+📍 **View all projects:** [PROJECTS.md](./PROJECTS.md) | [GitHub Repositories](https://github.com/Dalal-Nsrallah?tab=repositories)
 
 ---
 
@@ -52,6 +52,8 @@ A seven-criterion translation quality model with:
 - 📊 Non-translational failure detection in LLM-based translation evaluation
 
 **Dissertation:** *غَرْبال: دمج ضمان الجودة وضبطها والذكاء الاصطناعي في تقييم الترجمة إلى العربية*
+
+📖 **Read more:** [RESEARCH.md](./RESEARCH.md)
 
 ### Research Areas
 - Arabic-aware fuzzy matching for translation memory
@@ -107,6 +109,15 @@ A seven-criterion translation quality model with:
 
 ---
 
+## 📚 Documentation
+
+- 🚀 [**PROJECTS.md**](./PROJECTS.md) — Detailed project showcase
+- 🔬 [**RESEARCH.md**](./RESEARCH.md) — Research & GHIRBAL Framework
+- 🤝 [**CONTRIBUTIONS.md**](./CONTRIBUTIONS.md) — How to contribute
+- 📫 [**CONTACT.md**](./CONTACT.md) — Get in touch
+
+---
+
 ## 🤝 Open to Collaboration
 
 I'm actively seeking partnerships on:
@@ -124,6 +135,8 @@ I'm actively seeking partnerships on:
 - 💼 **LinkedIn:** [Dalal Nasrallah](https://linkedin.com/in/dalal-nsrallah)
 - 🐦 **Twitter/X:** [@DalalNsrallah](https://twitter.com/DalalNsrallah)
 - 💬 **Discord:** Available for technical discussions
+
+📖 **More details:** [CONTACT.md](./CONTACT.md)
 
 ---
 
