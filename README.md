@@ -4,7 +4,7 @@
 
 **Translator · Translation Technologist · Applied Linguistics PhD Researcher**
 
-[![Website](https://img.shields.io/badge/Website-trjimtech.com-0078D4?style=for-the-badge&logo=world&logoColor=white)](https://trjim.com)
+[![Website](https://img.shields.io/badge/Website-??.com-0078D4?style=for-the-badge&logo=world&logoColor=white)](https://trjim.com)
 [![Email](https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@trjim.com)
 
 </div>
