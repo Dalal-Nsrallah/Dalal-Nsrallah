@@ -17,7 +17,6 @@
 
 ## 🛠️ What I Build
 
-## 🛠️ What I Build
 
 <div align="center">
 
