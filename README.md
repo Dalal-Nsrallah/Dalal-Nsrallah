@@ -17,15 +17,21 @@
 
 ## 🛠️ What I Build
 
+## 🛠️ What I Build
+
+<div align="center">
+
 | 🚀 Project | 📖 Description | 💻 Stack |
-|---|---|---|
-| **TPMS** | SaaS platform | `React` `Vite` `Supabase` `AWS` |
-| **Meezan (ميزان)** | Legal Translation | `PyQt6` `Python` |
-| **Taqleeb (تقليب)** | Combinatorial machine | `JavaScript` `AWS S3` `CloudFront` |
-| **ArabicCAT** | Professional CAT tool | `HTML/CSS/JS` |
-| **Tarjimna (ترجمنا)** | Stealth project 🤫 | `Tauri` `Rust` |
-| **Bashiq (باشق)** | Stealth project 🤫 | `Python` |
-| **Arabic L10N Checker** | built for Arabic | `Python` |
+|:---:|:---:|:---:|
+| **TPMS** | SaaS platform | ![React](https://img.shields.io/badge/React-FF2E4C?style=flat-square&logo=react&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-9B5DE5?style=flat-square&logo=vite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-FF6EC7?style=flat-square&logo=supabase&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF8C2E?style=flat-square&logo=amazonwebservices&logoColor=white) |
+| **Meezan (ميزان)** | Legal Translation | ![PyQt6](https://img.shields.io/badge/PyQt6-E4008C?style=flat-square&logo=qt&logoColor=white) ![Python](https://img.shields.io/badge/Python-FF2E4C?style=flat-square&logo=python&logoColor=white) |
+| **Taqleeb (تقليب)** | Combinatorial machine | ![JavaScript](https://img.shields.io/badge/JavaScript-9B5DE5?style=flat-square&logo=javascript&logoColor=white) ![AWS S3](https://img.shields.io/badge/AWS_S3-FF6EC7?style=flat-square&logo=amazons3&logoColor=white) ![CloudFront](https://img.shields.io/badge/CloudFront-FF8C2E?style=flat-square&logo=amazonwebservices&logoColor=white) |
+| **ArabicCAT** | Professional CAT tool | ![HTML/CSS/JS](https://img.shields.io/badge/HTML%2FCSS%2FJS-E4008C?style=flat-square&logo=html5&logoColor=white) |
+| **Tarjimna (ترجمنا)** | Stealth project 🤫 | ![Tauri](https://img.shields.io/badge/Tauri-FF2E4C?style=flat-square&logo=tauri&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-9B5DE5?style=flat-square&logo=rust&logoColor=white) |
+| **Bashiq (باشق)** | Stealth project 🤫 | ![Python](https://img.shields.io/badge/Python-FF6EC7?style=flat-square&logo=python&logoColor=white) |
+| **Arabic L10N Checker** | built for Arabic | ![Python](https://img.shields.io/badge/Python-FF8C2E?style=flat-square&logo=python&logoColor=white) |
+
+</div>
 
 ---
 
