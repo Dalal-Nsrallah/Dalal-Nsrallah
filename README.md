@@ -30,8 +30,8 @@ I build translation technology for Arabic — a language most CAT tools, QA chec
 | 🚀 Project | 📖 Description | 💻 Stack |
 |---|---|---|
 | **TPMS** | SaaS translation project management platform | `React` `Vite` `Supabase` `AWS` |
-| **Meezan (ميزان)** | Legal translation desktop app with trilingual (AR/EN/IT) legal TMX & functional-equivalence classification | `PyQt6` `Python` |
-| **Taqleeb (تقليب)** | Combinatorial Arabic haiku machine — one million poems per deck, in the registers of ten Arab poets | `JavaScript` `AWS S3` `CloudFront` |
+| **Meezan (ميزان)** | Legal translation  | `PyQt6` `Python` |
+| **Taqleeb (تقليب)** | Combinatorial  | `JavaScript` `AWS S3` `CloudFront` |
 | **ArabicCAT** | Professional CAT tool  | `HTML/CSS/JS` |
 | **Tarjimna** | Secure translation system  | `Tauri` `Rust` |
 | **Arabic L10N Checker** | built for Arabic | `Python` |
