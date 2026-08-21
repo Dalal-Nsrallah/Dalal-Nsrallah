@@ -48,7 +48,6 @@ A seven-criterion translation quality model with:
 - 🛡️ Bias screening
 - 📊 Non-translational failure detection in LLM-based translation evaluation
 
-**Dissertation:** *غَرْبال: دمج ضمان الجودة وضبطها والذكاء الاصطناعي في تقييم الترجمة إلى العربية*
 
 📖 **Read more:** [RESEARCH.md](./RESEARCH.md)
 
